@@ -17,4 +17,5 @@ else if (a == 6 || a == 7 || a == 8)
 else if (a == 9 || a == 10 || a == 11)
 {
     Console.WriteLine("Осень");
+
 }
